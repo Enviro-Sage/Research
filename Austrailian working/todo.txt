@@ -4,5 +4,6 @@
 RMSE1 4-11 to 24-3 Graph
 RMSE2 24-3 to 24-3 Graph 
 
-
+bins selected
+1511208 for high
 
