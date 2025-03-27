@@ -1,9 +1,0 @@
-4th march 2021 - 11th march 2021 - Predict Values
-
-24th Feb 2021 - 3rd March 2021 - Actual Values / Predict
-RMSE1 4-11 to 24-3 Graph
-RMSE2 24-3 to 24-3 Graph 
-
-bins selected
-1511208 for high
-
